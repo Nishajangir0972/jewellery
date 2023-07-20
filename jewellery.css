@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav.navbar.navbar-expand-lg {
+    background-color: #443f3f;
+}
+a.navbar-brand {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+}
+a.nav-link.active {
+    font-size: 17px;
+    color: white;
+}
+a.nav-link {
+    color: white;
+    font-size: 17px;
+}
+.carousel-item img{
+    height: 100vh;
+    width: 100%;
+}
+.card-body{
+    text-align: center;
+}
+.card img {
+    height: 400px;
+    width: 354px;
+}
+.head{
+    margin-top: 50px;
+    text-align: center;
+}
+.shop img{
+height: 100px;
+width: 100px;
+
+}
+.shop{
+    text-align: center;
+}
+
+.h5, h5 {
+    font-size: 15px;
+}
+.foot h1{
+    font-size: 15px;
+    color: white;
+}
+.end{
+    background-color: #443f3f;
+}
